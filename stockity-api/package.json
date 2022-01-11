@@ -8,6 +8,7 @@
     "test": "test"
   },
   "dependencies": {
+    "@nestjs/cli": "^8.1.8",
     "@nestjs/common": "^8.2.4",
     "@nestjs/core": "^8.2.4",
     "@nestjs/platform-express": "^8.2.4",
@@ -146,11 +147,6 @@
     "escape-html": "^1.0.3",
     "escape-string-regexp": "^1.0.5",
     "escodegen": "^2.0.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.1",
-    "eslint-scope": "^5.1.1",
-    "eslint-utils": "^2.1.0",
-    "eslint-visitor-keys": "^2.1.0",
     "espree": "^7.3.1",
     "esprima": "^4.0.1",
     "esquery": "^1.4.0",
@@ -549,9 +545,14 @@
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
     "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.2.0"
+    "eslint-plugin-prettier": "^3.4.1",
+    "eslint-plugin-promise": "^5.2.0",
+    "eslint-scope": "^5.1.1",
+    "eslint-utils": "^2.1.0",
+    "eslint-visitor-keys": "^2.1.0"
   }
 }
