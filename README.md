@@ -1,6 +1,7 @@
 # Stockity
 
-Stockity is an inventory tracking app where you can add, edit and remove products along with their stocks.
+Stockity is an inventory tracking app where you can add, edit and remove products along with their stocks. This is a submission for Shopify Backend Developer Intern 
+Challenge 2022.
 
 ## Running the Application
 
