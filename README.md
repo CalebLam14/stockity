@@ -9,7 +9,8 @@ You can run the app using multiple methods.
 ### Environment Setup
 
 1. **Make sure [Node.js](https://nodejs.org/) is installed!**
-2. (Optional) Install Yarn using `npm install -g yarn`.
+2. **Install Yarn using `npm install -g yarn`.**
+3. **This project uses Yarn Berry.**
 
 ### Running the API and website separately
 

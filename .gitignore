@@ -1,2 +1,14 @@
+# node_modules
 node_modules/
+
+# database files
 data/
+
+# yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
