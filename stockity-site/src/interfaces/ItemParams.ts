@@ -1,5 +1,3 @@
-import Group from "./Group";
-
 interface ItemParams {
   name: string;
   description: string;
