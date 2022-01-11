@@ -1,18 +1,15 @@
 import {
   Alert,
   AlertColor,
-  CircularProgress,
   Container,
-  Grid,
   IconButton,
   Snackbar
 } from "@mui/material";
-import { Navigate, useLocation } from "react-router";
 import { SyntheticEvent, useState } from "react";
-import { Link, useParams, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import ItemParams from "../../interfaces/ItemParams";
 import ItemForm from "../ItemForm/ItemForm";
-import { ArrowBack, Edit } from "@mui/icons-material";
+import { ArrowBack } from "@mui/icons-material";
 import { config } from "../../config";
 
 type NotificationInfo = {

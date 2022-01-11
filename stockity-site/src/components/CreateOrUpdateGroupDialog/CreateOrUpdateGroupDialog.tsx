@@ -6,8 +6,7 @@ import {
   DialogActions,
   DialogContent,
   DialogTitle,
-  TextField,
-  Typography
+  TextField
 } from "@mui/material";
 import { ChangeEvent, useEffect, useState } from "react";
 import Group from "../../interfaces/Group";

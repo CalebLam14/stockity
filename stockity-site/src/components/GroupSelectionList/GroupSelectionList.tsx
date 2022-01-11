@@ -7,8 +7,7 @@ import {
   ListItemSecondaryAction,
   IconButton,
   Alert,
-  Snackbar,
-  AlertColor
+  Snackbar
 } from "@mui/material";
 import { Delete, Edit } from "@mui/icons-material";
 import { useEffect, useState, MouseEvent } from "react";

@@ -1,13 +1,10 @@
 import {
-  Box,
   Button,
   CircularProgress,
   Dialog,
   DialogActions,
   DialogContent,
-  DialogTitle,
-  TextField,
-  Typography
+  DialogTitle
 } from "@mui/material";
 import Group from "../../interfaces/Group";
 
