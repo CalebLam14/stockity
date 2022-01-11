@@ -27,3 +27,9 @@ You can run the app using multiple methods.
 2. Open a command line (in the `stockity` repo), then run `npm run start`.
 3. Wait for both the API and the website to finish setting up. If all goes well, then the Stockity website should appear in your browser.
 4. To stop both processes, press Ctrl/Cmd + C, then Enter to move to the next command. Next, if asked, terminate the batch job by responding with `Y`.
+
+## Using the App
+
+- Click on the "+" button on the top left to create a product.
+- Click on a product you created to view its details.
+- On the top right, you can click on the pencil button to edit and trash bin button to delete it.
