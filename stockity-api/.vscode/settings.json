@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "stockity",
+      "database": "D:\\Users\\caleb\\Documents\\Coding Projects\\stockity\\data\\stockity.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}

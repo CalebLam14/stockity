@@ -1,0 +1,13 @@
+{
+  "name": "stockity",
+  "version": "1.0.0",
+  "description": "A very simple inventory tracking app.",
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "scripts": {
+    "start": "npm install && concurrently --kill-others \"cd stockity-api && yarn install && yarn start\" \"cd stockity-site && yarn install && yarn start\""
+  },
+  "author": "Caleb Lam",
+  "license": "ISC"
+}
