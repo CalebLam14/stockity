@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import "./App.css";
 import SingleItem from "./components/SingleItem/SingleItem";
 import Items from "./components/Items/Items";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
