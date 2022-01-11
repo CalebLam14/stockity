@@ -15,13 +15,6 @@
     "@types/node": "^16.11.19",
     "@types/react": "^17.0.38",
     "@types/react-dom": "^17.0.11",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.1",
-    "eslint-scope": "^5.1.1",
-    "eslint-utils": "^2.1.0",
-    "eslint-visitor-keys": "^2.1.0",
-    "prettier": "^2.5.1",
-    "prettier-linter-helpers": "^1.0.0",
     "pretty-format": "^27.4.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -60,7 +53,13 @@
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
     "eslint": "^8.6.0",
-    "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.25.4"
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^3.4.1",
+    "eslint-scope": "^5.1.1",
+    "eslint-utils": "^2.1.0",
+    "eslint-visitor-keys": "^2.1.0",
+    "prettier": "^2.5.1",
+    "prettier-linter-helpers": "^1.0.0"
   }
 }
