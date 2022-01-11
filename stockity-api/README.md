@@ -24,15 +24,38 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Stockity's API was bootstrapped using NestJS.
 
 ## Installation
+
+### Using Yarn
+
+```bash
+$ yarn install
+```
+
+### Using NPM
 
 ```bash
 $ npm install
 ```
 
 ## Running the app
+
+### Using Yarn
+
+```bash
+# development
+$ yarn start
+
+# watch mode
+$ yarn start:dev
+
+# production mode
+$ yarn start:prod
+```
+
+### Using NPM
 
 ```bash
 # development
@@ -43,19 +66,6 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## Support
